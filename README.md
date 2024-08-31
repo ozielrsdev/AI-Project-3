@@ -1,5 +1,7 @@
 # Projeto 3 - Automação 💬🤖
 
+### 🚧Em desenvolvimento!🚧
+
 Este é um projeto de interface de chat que utiliza o **Groq AI** para gerar respostas baseadas em prompts de usuário. O objetivo principal é criar um ambiente onde os usuários possam interagir com o modelo de linguagem de maneira simples e intuitiva, recebendo respostas geradas automaticamente.
 
 ## O que é o Groq AI? 🌐
