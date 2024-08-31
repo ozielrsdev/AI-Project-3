@@ -1,4 +1,4 @@
-# Projeto 3 - Automação 💬🤖
+# Projeto 3 - Automatização 💬🤖
 
 ### 🚧Em desenvolvimento!🚧
 
